@@ -1,3 +1,3 @@
 # Master_API
 
-A backend master APIs which helpful for e-xommerce websites.
+A backend master APIs which helpful for e-commerce websites.
